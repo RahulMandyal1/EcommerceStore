@@ -2,7 +2,7 @@
 
 This is a basic  user interface of a ecommerce store  made with react js . Not resposive yet .Still need a lot of improvement .
 
-Here is the deployed link of  this  store.
+Here is the deployed link of  this  store : https://ecommercestore-userinterface-by-rahulmandyal.netlify.app/
 
 ## Multipage website 
 -  Homepage 
@@ -10,8 +10,7 @@ Here is the deployed link of  this  store.
 - Single product page
 -  User cart page
 
-
-## What i learned throughtout this small project .
+## What i learned throughtout this small project
 
 While working with this small ecommerce store i learned  ReactJs styled component and implemented the whole 
 project with the styled component . Earlier i know a little bit about the styled component but never used it .
